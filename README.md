@@ -7,16 +7,13 @@ I know English and Turkish.
 
 You can reach me at: berk_hakan_yeni@hotmail.com
 
-## Programming Languages I'm Experienced in:
+## I'm experienced in:
 - Python
 - TypeScript
 - JavaScript
 - HTML and CSS
 
-## Web Technologies I'm Learning:
+## I'm Learning:
 - React
 - Django
-
-## Programming Languages I'm Learning:
 - C
-
